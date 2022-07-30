@@ -14,7 +14,7 @@
 # *.DS_Store
 # lang.txt
 
-storage/app/vault/firebase_service.json
-storage/framework/*
-lang-full.txt
-node_modules
+# storage/app/vault/firebase_service.json
+# storage/framework/*
+# lang-full.txt
+# node_modules
